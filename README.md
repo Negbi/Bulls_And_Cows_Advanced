@@ -3,5 +3,7 @@ This project is an enhanced and upgraded computer implementation of the classic 
 Coded and developed by
 
 [Daniel Negbi] (https://github.com/Negbi)
+
 Shimon Ben Ami
-Students of faculty of engeneering in BIU university
+
+Students at faculty of engeneering in Bar Ilan University
